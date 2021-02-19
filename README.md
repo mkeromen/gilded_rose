@@ -21,7 +21,6 @@ Getting Started
 To begin the kata, install the dependencies and run `phpunit`:
 
 ```
-cd php7
 composer install
 vendor/bin/phpunit
 ```
